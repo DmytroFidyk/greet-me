@@ -1,0 +1,1 @@
+GreetMe - it is a non-comercial fullstack pet-project for portfolio.
